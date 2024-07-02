@@ -1,0 +1,7 @@
+# Rider
+.idea
+
+# Build stuff
+deps/
+obj/
+bin/
